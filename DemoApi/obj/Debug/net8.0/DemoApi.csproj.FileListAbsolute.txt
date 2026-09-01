@@ -1,0 +1,139 @@
+C:\DotnetVmDeployDemo\DemoApi\bin\Debug\net8.0\appsettings.Development.json
+C:\DotnetVmDeployDemo\DemoApi\bin\Debug\net8.0\appsettings.json
+C:\DotnetVmDeployDemo\DemoApi\bin\Debug\net8.0\DemoApi.exe
+C:\DotnetVmDeployDemo\DemoApi\bin\Debug\net8.0\DemoApi.deps.json
+C:\DotnetVmDeployDemo\DemoApi\bin\Debug\net8.0\DemoApi.runtimeconfig.json
+C:\DotnetVmDeployDemo\DemoApi\bin\Debug\net8.0\DemoApi.dll
+C:\DotnetVmDeployDemo\DemoApi\bin\Debug\net8.0\DemoApi.pdb
+C:\DotnetVmDeployDemo\DemoApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\DotnetVmDeployDemo\DemoApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\DotnetVmDeployDemo\DemoApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\DotnetVmDeployDemo\DemoApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\DotnetVmDeployDemo\DemoApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\DotnetVmDeployDemo\DemoApi\obj\Debug\net8.0\DemoApi.csproj.AssemblyReference.cache
+C:\DotnetVmDeployDemo\DemoApi\obj\Debug\net8.0\DemoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotnetVmDeployDemo\DemoApi\obj\Debug\net8.0\DemoApi.AssemblyInfoInputs.cache
+C:\DotnetVmDeployDemo\DemoApi\obj\Debug\net8.0\DemoApi.AssemblyInfo.cs
+C:\DotnetVmDeployDemo\DemoApi\obj\Debug\net8.0\DemoApi.csproj.CoreCompileInputs.cache
+C:\DotnetVmDeployDemo\DemoApi\obj\Debug\net8.0\DemoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\DotnetVmDeployDemo\DemoApi\obj\Debug\net8.0\DemoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\DotnetVmDeployDemo\DemoApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\DotnetVmDeployDemo\DemoApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\DotnetVmDeployDemo\DemoApi\obj\Debug\net8.0\staticwebassets\msbuild.DemoApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\DotnetVmDeployDemo\DemoApi\obj\Debug\net8.0\staticwebassets\msbuild.build.DemoApi.props
+C:\DotnetVmDeployDemo\DemoApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DemoApi.props
+C:\DotnetVmDeployDemo\DemoApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DemoApi.props
+C:\DotnetVmDeployDemo\DemoApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\DotnetVmDeployDemo\DemoApi\obj\Debug\net8.0\scopedcss\bundle\DemoApi.styles.css
+C:\DotnetVmDeployDemo\DemoApi\obj\Debug\net8.0\DemoApi.csproj.Up2Date
+C:\DotnetVmDeployDemo\DemoApi\obj\Debug\net8.0\DemoApi.dll
+C:\DotnetVmDeployDemo\DemoApi\obj\Debug\net8.0\refint\DemoApi.dll
+C:\DotnetVmDeployDemo\DemoApi\obj\Debug\net8.0\DemoApi.pdb
+C:\DotnetVmDeployDemo\DemoApi\obj\Debug\net8.0\DemoApi.genruntimeconfig.cache
+C:\DotnetVmDeployDemo\DemoApi\obj\Debug\net8.0\ref\DemoApi.dll
+C:\DotnetVmDeployDemo\DemoApi\obj\Debug\net8.0\DemoApi.sourcelink.json
+C:\GH-Action-Test-AKS\DemoApi\bin\Debug\net8.0\appsettings.Development.json
+C:\GH-Action-Test-AKS\DemoApi\bin\Debug\net8.0\appsettings.json
+C:\GH-Action-Test-AKS\DemoApi\bin\Debug\net8.0\DemoApi.exe
+C:\GH-Action-Test-AKS\DemoApi\bin\Debug\net8.0\DemoApi.deps.json
+C:\GH-Action-Test-AKS\DemoApi\bin\Debug\net8.0\DemoApi.runtimeconfig.json
+C:\GH-Action-Test-AKS\DemoApi\bin\Debug\net8.0\DemoApi.dll
+C:\GH-Action-Test-AKS\DemoApi\bin\Debug\net8.0\DemoApi.pdb
+C:\GH-Action-Test-AKS\DemoApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\GH-Action-Test-AKS\DemoApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\GH-Action-Test-AKS\DemoApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\GH-Action-Test-AKS\DemoApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\GH-Action-Test-AKS\DemoApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\GH-Action-Test-AKS\DemoApi\obj\Debug\net8.0\DemoApi.csproj.AssemblyReference.cache
+C:\GH-Action-Test-AKS\DemoApi\obj\Debug\net8.0\DemoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\GH-Action-Test-AKS\DemoApi\obj\Debug\net8.0\DemoApi.AssemblyInfoInputs.cache
+C:\GH-Action-Test-AKS\DemoApi\obj\Debug\net8.0\DemoApi.AssemblyInfo.cs
+C:\GH-Action-Test-AKS\DemoApi\obj\Debug\net8.0\DemoApi.csproj.CoreCompileInputs.cache
+C:\GH-Action-Test-AKS\DemoApi\obj\Debug\net8.0\DemoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\GH-Action-Test-AKS\DemoApi\obj\Debug\net8.0\DemoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\GH-Action-Test-AKS\DemoApi\obj\Debug\net8.0\DemoApi.sourcelink.json
+C:\GH-Action-Test-AKS\DemoApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\GH-Action-Test-AKS\DemoApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\GH-Action-Test-AKS\DemoApi\obj\Debug\net8.0\staticwebassets\msbuild.DemoApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\GH-Action-Test-AKS\DemoApi\obj\Debug\net8.0\staticwebassets\msbuild.build.DemoApi.props
+C:\GH-Action-Test-AKS\DemoApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DemoApi.props
+C:\GH-Action-Test-AKS\DemoApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DemoApi.props
+C:\GH-Action-Test-AKS\DemoApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\GH-Action-Test-AKS\DemoApi\obj\Debug\net8.0\scopedcss\bundle\DemoApi.styles.css
+C:\GH-Action-Test-AKS\DemoApi\obj\Debug\net8.0\DemoApi.csproj.Up2Date
+C:\GH-Action-Test-AKS\DemoApi\obj\Debug\net8.0\DemoApi.dll
+C:\GH-Action-Test-AKS\DemoApi\obj\Debug\net8.0\refint\DemoApi.dll
+C:\GH-Action-Test-AKS\DemoApi\obj\Debug\net8.0\DemoApi.pdb
+C:\GH-Action-Test-AKS\DemoApi\obj\Debug\net8.0\DemoApi.genruntimeconfig.cache
+C:\GH-Action-Test-AKS\DemoApi\obj\Debug\net8.0\ref\DemoApi.dll
+C:\AIS Info\Dotnet-app\DemoApi\obj\Debug\net8.0\DemoApi.csproj.AssemblyReference.cache
+C:\AIS Info\Dotnet-app\DemoApi\obj\Debug\net8.0\DemoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\AIS Info\Dotnet-app\DemoApi\obj\Debug\net8.0\DemoApi.AssemblyInfoInputs.cache
+C:\AIS Info\Dotnet-app\DemoApi\obj\Debug\net8.0\DemoApi.AssemblyInfo.cs
+C:\AIS Info\Dotnet-app\DemoApi\obj\Debug\net8.0\DemoApi.csproj.CoreCompileInputs.cache
+C:\AIS Info\Dotnet-app\DemoApi\obj\Debug\net8.0\DemoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\AIS Info\Dotnet-app\DemoApi\obj\Debug\net8.0\DemoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\AIS Info\Dotnet-app\DemoApi\obj\Debug\net8.0\DemoApi.dll
+C:\AIS Info\Dotnet-app\DemoApi\obj\Debug\net8.0\refint\DemoApi.dll
+C:\AIS Info\Dotnet-app\DemoApi\obj\Debug\net8.0\DemoApi.pdb
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\appsettings.Development.json
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\appsettings.json
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\DemoApi.exe
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\DemoApi.deps.json
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\DemoApi.runtimeconfig.json
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\DemoApi.dll
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\DemoApi.pdb
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\AIS Info\Dotnet-app\DemoApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\AIS Info\Dotnet-app\DemoApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\AIS Info\Dotnet-app\DemoApi\obj\Debug\net8.0\staticwebassets\msbuild.DemoApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\AIS Info\Dotnet-app\DemoApi\obj\Debug\net8.0\staticwebassets\msbuild.build.DemoApi.props
+C:\AIS Info\Dotnet-app\DemoApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DemoApi.props
+C:\AIS Info\Dotnet-app\DemoApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DemoApi.props
+C:\AIS Info\Dotnet-app\DemoApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\AIS Info\Dotnet-app\DemoApi\obj\Debug\net8.0\scopedcss\bundle\DemoApi.styles.css
+C:\AIS Info\Dotnet-app\DemoApi\obj\Debug\net8.0\DemoApi.csproj.Up2Date
+C:\AIS Info\Dotnet-app\DemoApi\obj\Debug\net8.0\DemoApi.genruntimeconfig.cache
+C:\AIS Info\Dotnet-app\DemoApi\obj\Debug\net8.0\ref\DemoApi.dll
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\AIS Info\Dotnet-app\DemoApi\obj\Debug\net8.0\DemoApi.sourcelink.json
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\Azure.Core.dll
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\AIS Info\Dotnet-app\DemoApi\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll

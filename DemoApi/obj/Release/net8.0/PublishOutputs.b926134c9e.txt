@@ -1,0 +1,12 @@
+C:\DotnetVmDeployDemo\publish\DemoApi.exe
+C:\DotnetVmDeployDemo\publish\appsettings.Development.json
+C:\DotnetVmDeployDemo\publish\appsettings.json
+C:\DotnetVmDeployDemo\publish\DemoApi.dll
+C:\DotnetVmDeployDemo\publish\DemoApi.deps.json
+C:\DotnetVmDeployDemo\publish\DemoApi.runtimeconfig.json
+C:\DotnetVmDeployDemo\publish\DemoApi.pdb
+C:\DotnetVmDeployDemo\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\DotnetVmDeployDemo\publish\Microsoft.OpenApi.dll
+C:\DotnetVmDeployDemo\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\DotnetVmDeployDemo\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\DotnetVmDeployDemo\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
