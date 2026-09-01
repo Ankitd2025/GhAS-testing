@@ -54,7 +54,7 @@ app.MapGet("/weatherforecast", () =>
 app.MapGet("/welcome", () => "Welcome to the Demo API! V1")
    .WithName("WelcomeApi");
 
-
+   
 // ====================================================
 // GHAS DEMO - Maximum Vulnerability Coverage
 // ====================================================
