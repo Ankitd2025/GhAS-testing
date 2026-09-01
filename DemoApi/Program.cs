@@ -65,7 +65,7 @@ app.MapGet("/welcome", () => "Welcome to the Demo API! V1")
 
 // AWS Credentials (Access Key: AKIA + 16 chars | Secret Key: 40 base64  chars)
 // AWS test credentials
-var github_personal_access_token = "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"
+var github_personal_access_token = ""
 
 var aws_access_key_id = "AKIAIOSFODNN7EXAMPLE";
 var aws_secret_access_key = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY";
